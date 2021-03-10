@@ -680,8 +680,10 @@
     <Compile Include="Assets\CodeMonkey\Utils\World_Bar.cs" />
     <Compile Include="Assets\CodeMonkey\Utils\World_Mesh.cs" />
     <Compile Include="Assets\CodeMonkey\Utils\World_Sprite.cs" />
-    <Compile Include="Assets\Scripts\Grid_Object.cs" />
+    <Compile Include="Assets\Scripts\Path_Finding.cs" />
+    <Compile Include="Assets\Scripts\Path_Node.cs" />
     <Compile Include="Assets\Scripts\Testing_Script.cs" />
+    <Compile Include="Assets\Scripts\Tile_Object.cs" />
     <Compile Include="Assets\Scripts\World_Grid.cs" />
   </ItemGroup>
   <ItemGroup>
